@@ -1,0 +1,321 @@
+%pos,Cell_type,Treatment,phenotype,sample
+32.2,Basal,2DG,FITC+PI-Apoptosis,sample1
+37.1,Basal,AA5,FITC+PI-Apoptosis,sample1
+38.5,Basal,ANTI A,FITC+PI-Apoptosis,sample1
+18.6,Basal,BAY876,FITC+PI-Apoptosis,sample1
+,Basal,DCA,FITC+PI-Apoptosis,sample1
+34.4,Basal,DMSO,FITC+PI-Apoptosis,sample1
+35.9,Basal,GALLOFLAVIN,FITC+PI-Apoptosis,sample1
+29.5,Basal,OLIGO,FITC+PI-Apoptosis,sample1
+35.1,Basal,Rot,FITC+PI-Apoptosis,sample1
+27.5,Basal,UK5099,FITC+PI-Apoptosis,sample1
+33.1,Luminal,2DG,FITC+PI-Apoptosis,sample1
+33.5,Luminal,AA5,FITC+PI-Apoptosis,sample1
+34.0,Luminal,ANTI A,FITC+PI-Apoptosis,sample1
+16.6,Luminal,BAY876,FITC+PI-Apoptosis,sample1
+33.7,Luminal,DCA,FITC+PI-Apoptosis,sample1
+43.7,Luminal,DMSO,FITC+PI-Apoptosis,sample1
+38.1,Luminal,GALLOFLAVIN,FITC+PI-Apoptosis,sample1
+30.1,Luminal,OLIGO,FITC+PI-Apoptosis,sample1
+35.8,Luminal,Rot,FITC+PI-Apoptosis,sample1
+23.7,Luminal,UK5099,FITC+PI-Apoptosis,sample1
+45.7,Basal,2DG,FITC+PI+Necrosis,sample1
+48.6,Basal,AA5,FITC+PI+Necrosis,sample1
+45.9,Basal,ANTI A,FITC+PI+Necrosis,sample1
+70.1,Basal,BAY876,FITC+PI+Necrosis,sample1
+,Basal,DCA,FITC+PI+Necrosis,sample1
+32.8,Basal,DMSO,FITC+PI+Necrosis,sample1
+47.4,Basal,GALLOFLAVIN,FITC+PI+Necrosis,sample1
+50.5,Basal,OLIGO,FITC+PI+Necrosis,sample1
+50.5,Basal,Rot,FITC+PI+Necrosis,sample1
+51.7,Basal,UK5099,FITC+PI+Necrosis,sample1
+43.3,Luminal,2DG,FITC+PI+Necrosis,sample1
+51.5,Luminal,AA5,FITC+PI+Necrosis,sample1
+52.1,Luminal,ANTI A,FITC+PI+Necrosis,sample1
+70.7,Luminal,BAY876,FITC+PI+Necrosis,sample1
+39.7,Luminal,DCA,FITC+PI+Necrosis,sample1
+42.2,Luminal,DMSO,FITC+PI+Necrosis,sample1
+51.8,Luminal,GALLOFLAVIN,FITC+PI+Necrosis,sample1
+47.9,Luminal,OLIGO,FITC+PI+Necrosis,sample1
+45.0,Luminal,Rot,FITC+PI+Necrosis,sample1
+45.1,Luminal,UK5099,FITC+PI+Necrosis,sample1
+1.14,Basal,2DG,FITC-PI+,sample1
+1.26,Basal,AA5,FITC-PI+,sample1
+0.72,Basal,ANTI A,FITC-PI+,sample1
+0.54,Basal,BAY876,FITC-PI+,sample1
+,Basal,DCA,FITC-PI+,sample1
+3.79,Basal,DMSO,FITC-PI+,sample1
+0.79,Basal,GALLOFLAVIN,FITC-PI+,sample1
+1.05,Basal,OLIGO,FITC-PI+,sample1
+1.46,Basal,Rot,FITC-PI+,sample1
+1.48,Basal,UK5099,FITC-PI+,sample1
+1.07,Luminal,2DG,FITC-PI+,sample1
+0.69,Luminal,AA5,FITC-PI+,sample1
+1.2,Luminal,ANTI A,FITC-PI+,sample1
+0.43,Luminal,BAY876,FITC-PI+,sample1
+1.66,Luminal,DCA,FITC-PI+,sample1
+0.35,Luminal,DMSO,FITC-PI+,sample1
+0.33,Luminal,GALLOFLAVIN,FITC-PI+,sample1
+1.21,Luminal,OLIGO,FITC-PI+,sample1
+3.61,Luminal,Rot,FITC-PI+,sample1
+1.76,Luminal,UK5099,FITC-PI+,sample1
+20.9,Basal,2DG,FITC-PI-,sample1
+13.0,Basal,AA5,FITC-PI-,sample1
+14.9,Basal,ANTI A,FITC-PI-,sample1
+10.8,Basal,BAY876,FITC-PI-,sample1
+,Basal,DCA,FITC-PI-,sample1
+28.9,Basal,DMSO,FITC-PI-,sample1
+16.0,Basal,GALLOFLAVIN,FITC-PI-,sample1
+18.9,Basal,OLIGO,FITC-PI-,sample1
+12.9,Basal,Rot,FITC-PI-,sample1
+19.3,Basal,UK5099,FITC-PI-,sample1
+22.6,Luminal,2DG,FITC-PI-,sample1
+14.3,Luminal,AA5,FITC-PI-,sample1
+12.7,Luminal,ANTI A,FITC-PI-,sample1
+12.3,Luminal,BAY876,FITC-PI-,sample1
+24.9,Luminal,DCA,FITC-PI-,sample1
+13.8,Luminal,DMSO,FITC-PI-,sample1
+9.83,Luminal,GALLOFLAVIN,FITC-PI-,sample1
+20.7,Luminal,OLIGO,FITC-PI-,sample1
+15.5,Luminal,Rot,FITC-PI-,sample1
+29.5,Luminal,UK5099,FITC-PI-,sample1
+26.2,Basal,2DG,FITC+PI-Apoptosis,sample2
+33.5,Basal,AA5,FITC+PI-Apoptosis,sample2
+36.2,Basal,ANTI A,FITC+PI-Apoptosis,sample2
+12.8,Basal,BAY876,FITC+PI-Apoptosis,sample2
+35.1,Basal,DCA,FITC+PI-Apoptosis,sample2
+37.2,Basal,DMSO,FITC+PI-Apoptosis,sample2
+35.0,Basal,GALLOFLAVIN,FITC+PI-Apoptosis,sample2
+32.6,Basal,OLIGO,FITC+PI-Apoptosis,sample2
+26.8,Basal,Rot,FITC+PI-Apoptosis,sample2
+31.1,Basal,UK5099,FITC+PI-Apoptosis,sample2
+28.8,Luminal,2DG,FITC+PI-Apoptosis,sample2
+30.6,Luminal,AA5,FITC+PI-Apoptosis,sample2
+29.2,Luminal,ANTI A,FITC+PI-Apoptosis,sample2
+17.5,Luminal,BAY876,FITC+PI-Apoptosis,sample2
+26.8,Luminal,DCA,FITC+PI-Apoptosis,sample2
+45.5,Luminal,DMSO,FITC+PI-Apoptosis,sample2
+32.9,Luminal,GALLOFLAVIN,FITC+PI-Apoptosis,sample2
+27.4,Luminal,OLIGO,FITC+PI-Apoptosis,sample2
+38.9,Luminal,Rot,FITC+PI-Apoptosis,sample2
+32.3,Luminal,UK5099,FITC+PI-Apoptosis,sample2
+53.4,Basal,2DG,FITC+PI+Necrosis,sample2
+48.1,Basal,AA5,FITC+PI+Necrosis,sample2
+49.2,Basal,ANTI A,FITC+PI+Necrosis,sample2
+76.7,Basal,BAY876,FITC+PI+Necrosis,sample2
+41.2,Basal,DCA,FITC+PI+Necrosis,sample2
+47.3,Basal,DMSO,FITC+PI+Necrosis,sample2
+48.4,Basal,GALLOFLAVIN,FITC+PI+Necrosis,sample2
+48.5,Basal,OLIGO,FITC+PI+Necrosis,sample2
+48.9,Basal,Rot,FITC+PI+Necrosis,sample2
+51.6,Basal,UK5099,FITC+PI+Necrosis,sample2
+53.0,Luminal,2DG,FITC+PI+Necrosis,sample2
+56.2,Luminal,AA5,FITC+PI+Necrosis,sample2
+50.4,Luminal,ANTI A,FITC+PI+Necrosis,sample2
+74.2,Luminal,BAY876,FITC+PI+Necrosis,sample2
+49.8,Luminal,DCA,FITC+PI+Necrosis,sample2
+41.6,Luminal,DMSO,FITC+PI+Necrosis,sample2
+53.2,Luminal,GALLOFLAVIN,FITC+PI+Necrosis,sample2
+49.0,Luminal,OLIGO,FITC+PI+Necrosis,sample2
+48.6,Luminal,Rot,FITC+PI+Necrosis,sample2
+53.4,Luminal,UK5099,FITC+PI+Necrosis,sample2
+1.0,Basal,2DG,FITC-PI+,sample2
+2.42,Basal,AA5,FITC-PI+,sample2
+0.84,Basal,ANTI A,FITC-PI+,sample2
+0.38,Basal,BAY876,FITC-PI+,sample2
+1.08,Basal,DCA,FITC-PI+,sample2
+1.19,Basal,DMSO,FITC-PI+,sample2
+0.43,Basal,GALLOFLAVIN,FITC-PI+,sample2
+1.3,Basal,OLIGO,FITC-PI+,sample2
+1.91,Basal,Rot,FITC-PI+,sample2
+1.25,Basal,UK5099,FITC-PI+,sample2
+0.71,Luminal,2DG,FITC-PI+,sample2
+0.75,Luminal,AA5,FITC-PI+,sample2
+2.34,Luminal,ANTI A,FITC-PI+,sample2
+0.34,Luminal,BAY876,FITC-PI+,sample2
+1.07,Luminal,DCA,FITC-PI+,sample2
+0.37,Luminal,DMSO,FITC-PI+,sample2
+0.5,Luminal,GALLOFLAVIN,FITC-PI+,sample2
+1.29,Luminal,OLIGO,FITC-PI+,sample2
+0.85,Luminal,Rot,FITC-PI+,sample2
+0.89,Luminal,UK5099,FITC-PI+,sample2
+19.4,Basal,2DG,FITC-PI-,sample2
+16.0,Basal,AA5,FITC-PI-,sample2
+13.7,Basal,ANTI A,FITC-PI-,sample2
+10.1,Basal,BAY876,FITC-PI-,sample2
+22.7,Basal,DCA,FITC-PI-,sample2
+14.3,Basal,DMSO,FITC-PI-,sample2
+16.2,Basal,GALLOFLAVIN,FITC-PI-,sample2
+17.6,Basal,OLIGO,FITC-PI-,sample2
+22.4,Basal,Rot,FITC-PI-,sample2
+16.0,Basal,UK5099,FITC-PI-,sample2
+17.6,Luminal,2DG,FITC-PI-,sample2
+12.4,Luminal,AA5,FITC-PI-,sample2
+18.1,Luminal,ANTI A,FITC-PI-,sample2
+7.91,Luminal,BAY876,FITC-PI-,sample2
+22.3,Luminal,DCA,FITC-PI-,sample2
+12.5,Luminal,DMSO,FITC-PI-,sample2
+13.4,Luminal,GALLOFLAVIN,FITC-PI-,sample2
+22.3,Luminal,OLIGO,FITC-PI-,sample2
+11.6,Luminal,Rot,FITC-PI-,sample2
+13.4,Luminal,UK5099,FITC-PI-,sample2
+36.3,Basal,2DG,FITC+PI-Apoptosis,sample3
+32.6,Basal,AA5,FITC+PI-Apoptosis,sample3
+20.9,Basal,ANTI A,FITC+PI-Apoptosis,sample3
+16.3,Basal,BAY876,FITC+PI-Apoptosis,sample3
+33.4,Basal,DCA,FITC+PI-Apoptosis,sample3
+41.0,Basal,DMSO,FITC+PI-Apoptosis,sample3
+41.4,Basal,GALLOFLAVIN,FITC+PI-Apoptosis,sample3
+31.7,Basal,OLIGO,FITC+PI-Apoptosis,sample3
+30.2,Basal,Rot,FITC+PI-Apoptosis,sample3
+30.9,Basal,UK5099,FITC+PI-Apoptosis,sample3
+27.9,Luminal,2DG,FITC+PI-Apoptosis,sample3
+34.5,Luminal,AA5,FITC+PI-Apoptosis,sample3
+27.6,Luminal,ANTI A,FITC+PI-Apoptosis,sample3
+16.8,Luminal,BAY876,FITC+PI-Apoptosis,sample3
+27.2,Luminal,DCA,FITC+PI-Apoptosis,sample3
+37.9,Luminal,DMSO,FITC+PI-Apoptosis,sample3
+31.8,Luminal,GALLOFLAVIN,FITC+PI-Apoptosis,sample3
+28.5,Luminal,OLIGO,FITC+PI-Apoptosis,sample3
+34.6,Luminal,Rot,FITC+PI-Apoptosis,sample3
+26.1,Luminal,UK5099,FITC+PI-Apoptosis,sample3
+39.0,Basal,2DG,FITC+PI+Necrosis,sample3
+39.5,Basal,AA5,FITC+PI+Necrosis,sample3
+24.3,Basal,ANTI A,FITC+PI+Necrosis,sample3
+71.8,Basal,BAY876,FITC+PI+Necrosis,sample3
+43.4,Basal,DCA,FITC+PI+Necrosis,sample3
+46.3,Basal,DMSO,FITC+PI+Necrosis,sample3
+46.0,Basal,GALLOFLAVIN,FITC+PI+Necrosis,sample3
+44.0,Basal,OLIGO,FITC+PI+Necrosis,sample3
+45.6,Basal,Rot,FITC+PI+Necrosis,sample3
+50.2,Basal,UK5099,FITC+PI+Necrosis,sample3
+54.0,Luminal,2DG,FITC+PI+Necrosis,sample3
+49.2,Luminal,AA5,FITC+PI+Necrosis,sample3
+51.8,Luminal,ANTI A,FITC+PI+Necrosis,sample3
+72.1,Luminal,BAY876,FITC+PI+Necrosis,sample3
+45.1,Luminal,DCA,FITC+PI+Necrosis,sample3
+48.9,Luminal,DMSO,FITC+PI+Necrosis,sample3
+56.6,Luminal,GALLOFLAVIN,FITC+PI+Necrosis,sample3
+49.2,Luminal,OLIGO,FITC+PI+Necrosis,sample3
+50.0,Luminal,Rot,FITC+PI+Necrosis,sample3
+55.8,Luminal,UK5099,FITC+PI+Necrosis,sample3
+1.33,Basal,2DG,FITC-PI+,sample3
+1.73,Basal,AA5,FITC-PI+,sample3
+1.12,Basal,ANTI A,FITC-PI+,sample3
+0.44,Basal,BAY876,FITC-PI+,sample3
+0.99,Basal,DCA,FITC-PI+,sample3
+1.02,Basal,DMSO,FITC-PI+,sample3
+0.26,Basal,GALLOFLAVIN,FITC-PI+,sample3
+1.75,Basal,OLIGO,FITC-PI+,sample3
+2.2,Basal,Rot,FITC-PI+,sample3
+1.26,Basal,UK5099,FITC-PI+,sample3
+0.64,Luminal,2DG,FITC-PI+,sample3
+0.6,Luminal,AA5,FITC-PI+,sample3
+0.87,Luminal,ANTI A,FITC-PI+,sample3
+0.79,Luminal,BAY876,FITC-PI+,sample3
+1.27,Luminal,DCA,FITC-PI+,sample3
+0.64,Luminal,DMSO,FITC-PI+,sample3
+0.32,Luminal,GALLOFLAVIN,FITC-PI+,sample3
+2.25,Luminal,OLIGO,FITC-PI+,sample3
+0.88,Luminal,Rot,FITC-PI+,sample3
+1.28,Luminal,UK5099,FITC-PI+,sample3
+23.4,Basal,2DG,FITC-PI-,sample3
+26.1,Basal,AA5,FITC-PI-,sample3
+53.7,Basal,ANTI A,FITC-PI-,sample3
+11.5,Basal,BAY876,FITC-PI-,sample3
+22.2,Basal,DCA,FITC-PI-,sample3
+11.7,Basal,DMSO,FITC-PI-,sample3
+12.2,Basal,GALLOFLAVIN,FITC-PI-,sample3
+22.6,Basal,OLIGO,FITC-PI-,sample3
+22.0,Basal,Rot,FITC-PI-,sample3
+17.7,Basal,UK5099,FITC-PI-,sample3
+17.5,Luminal,2DG,FITC-PI-,sample3
+15.7,Luminal,AA5,FITC-PI-,sample3
+19.8,Luminal,ANTI A,FITC-PI-,sample3
+10.3,Luminal,BAY876,FITC-PI-,sample3
+26.5,Luminal,DCA,FITC-PI-,sample3
+12.6,Luminal,DMSO,FITC-PI-,sample3
+11.3,Luminal,GALLOFLAVIN,FITC-PI-,sample3
+20.1,Luminal,OLIGO,FITC-PI-,sample3
+14.5,Luminal,Rot,FITC-PI-,sample3
+16.8,Luminal,UK5099,FITC-PI-,sample3
+30.1,Basal,2DG,FITC+PI-Apoptosis,sample4
+,Basal,AA5,FITC+PI-Apoptosis,sample4
+33.5,Basal,ANTI A,FITC+PI-Apoptosis,sample4
+13.3,Basal,BAY876,FITC+PI-Apoptosis,sample4
+32.2,Basal,DCA,FITC+PI-Apoptosis,sample4
+43.9,Basal,DMSO,FITC+PI-Apoptosis,sample4
+40.7,Basal,GALLOFLAVIN,FITC+PI-Apoptosis,sample4
+33.4,Basal,OLIGO,FITC+PI-Apoptosis,sample4
+29.4,Basal,Rot,FITC+PI-Apoptosis,sample4
+34.1,Basal,UK5099,FITC+PI-Apoptosis,sample4
+28.1,Luminal,2DG,FITC+PI-Apoptosis,sample4
+29.6,Luminal,AA5,FITC+PI-Apoptosis,sample4
+29.8,Luminal,ANTI A,FITC+PI-Apoptosis,sample4
+16.0,Luminal,BAY876,FITC+PI-Apoptosis,sample4
+,Luminal,DCA,FITC+PI-Apoptosis,sample4
+36.3,Luminal,DMSO,FITC+PI-Apoptosis,sample4
+31.7,Luminal,GALLOFLAVIN,FITC+PI-Apoptosis,sample4
+29.3,Luminal,OLIGO,FITC+PI-Apoptosis,sample4
+30.3,Luminal,Rot,FITC+PI-Apoptosis,sample4
+28.8,Luminal,UK5099,FITC+PI-Apoptosis,sample4
+44.3,Basal,2DG,FITC+PI+Necrosis,sample4
+,Basal,AA5,FITC+PI+Necrosis,sample4
+52.0,Basal,ANTI A,FITC+PI+Necrosis,sample4
+74.7,Basal,BAY876,FITC+PI+Necrosis,sample4
+36.9,Basal,DCA,FITC+PI+Necrosis,sample4
+44.1,Basal,DMSO,FITC+PI+Necrosis,sample4
+47.1,Basal,GALLOFLAVIN,FITC+PI+Necrosis,sample4
+51.5,Basal,OLIGO,FITC+PI+Necrosis,sample4
+46.2,Basal,Rot,FITC+PI+Necrosis,sample4
+50.0,Basal,UK5099,FITC+PI+Necrosis,sample4
+50.3,Luminal,2DG,FITC+PI+Necrosis,sample4
+46.2,Luminal,AA5,FITC+PI+Necrosis,sample4
+48.9,Luminal,ANTI A,FITC+PI+Necrosis,sample4
+74.8,Luminal,BAY876,FITC+PI+Necrosis,sample4
+,Luminal,DCA,FITC+PI+Necrosis,sample4
+42.0,Luminal,DMSO,FITC+PI+Necrosis,sample4
+56.2,Luminal,GALLOFLAVIN,FITC+PI+Necrosis,sample4
+54.5,Luminal,OLIGO,FITC+PI+Necrosis,sample4
+42.3,Luminal,Rot,FITC+PI+Necrosis,sample4
+50.1,Luminal,UK5099,FITC+PI+Necrosis,sample4
+1.92,Basal,2DG,FITC-PI+,sample4
+,Basal,AA5,FITC-PI+,sample4
+0.38,Basal,ANTI A,FITC-PI+,sample4
+0.71,Basal,BAY876,FITC-PI+,sample4
+1.81,Basal,DCA,FITC-PI+,sample4
+1.0,Basal,DMSO,FITC-PI+,sample4
+0.88,Basal,GALLOFLAVIN,FITC-PI+,sample4
+1.48,Basal,OLIGO,FITC-PI+,sample4
+2.32,Basal,Rot,FITC-PI+,sample4
+1.9,Basal,UK5099,FITC-PI+,sample4
+0.64,Luminal,2DG,FITC-PI+,sample4
+1.63,Luminal,AA5,FITC-PI+,sample4
+1.7,Luminal,ANTI A,FITC-PI+,sample4
+0.28,Luminal,BAY876,FITC-PI+,sample4
+,Luminal,DCA,FITC-PI+,sample4
+1.11,Luminal,DMSO,FITC-PI+,sample4
+0.64,Luminal,GALLOFLAVIN,FITC-PI+,sample4
+1.27,Luminal,OLIGO,FITC-PI+,sample4
+2.76,Luminal,Rot,FITC-PI+,sample4
+1.59,Luminal,UK5099,FITC-PI+,sample4
+23.6,Basal,2DG,FITC-PI-,sample4
+,Basal,AA5,FITC-PI-,sample4
+14.2,Basal,ANTI A,FITC-PI-,sample4
+11.3,Basal,BAY876,FITC-PI-,sample4
+29.1,Basal,DCA,FITC-PI-,sample4
+11.0,Basal,DMSO,FITC-PI-,sample4
+11.3,Basal,GALLOFLAVIN,FITC-PI-,sample4
+13.7,Basal,OLIGO,FITC-PI-,sample4
+22.1,Basal,Rot,FITC-PI-,sample4
+14.0,Basal,UK5099,FITC-PI-,sample4
+21.0,Luminal,2DG,FITC-PI-,sample4
+22.6,Luminal,AA5,FITC-PI-,sample4
+19.5,Luminal,ANTI A,FITC-PI-,sample4
+8.91,Luminal,BAY876,FITC-PI-,sample4
+,Luminal,DCA,FITC-PI-,sample4
+20.5,Luminal,DMSO,FITC-PI-,sample4
+11.4,Luminal,GALLOFLAVIN,FITC-PI-,sample4
+15.0,Luminal,OLIGO,FITC-PI-,sample4
+24.6,Luminal,Rot,FITC-PI-,sample4
+19.5,Luminal,UK5099,FITC-PI-,sample4
